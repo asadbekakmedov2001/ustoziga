@@ -52,17 +52,17 @@ public class HomeFragment extends Fragment implements UserAdapter.SelectedUser {
     }
 
     private void initial() {
-        modelRcyclers.add(new ModelRcycler(R.drawable.kirish,"Kirish","Qo‘llanma  uch qismdan  iborat bo‘lib,  uning birinchi qismida  sonlar nazariyasida muhim bo‘lgan...","https://github.com/asadbekakmedov2001/ustoziga/blob/master/app/src/main/assets/kirish.pdf"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.kirish,"Kirish","Qo‘llanma  uch qismdan  iborat bo‘lib,  uning birinchi qismida  sonlar nazariyasida muhim bo‘lgan...","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/kirish.pdf"));
         modelRcyclers.add(new ModelRcycler(R.drawable.birbob,"I BOB.\tBUTUN SONLAR HALQASIDA BO'LINISH NAZARIYASI ELEMENTLARI","",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.ikkibob,"II BOB.\tSONLI FUNKSIYALAR VA ULARNING XOSSALARI","",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.uchbob,"III BOB.\tTAQQOSLAMALAR NAZARIYASI ELEMENTLARI","",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.turtbob,"IV BOB.\tBIR NOMA'LUMLI TAQQOSLAMALAR","",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.beshbob,"V BOB.\tBOSHLANG'ICH ILDIZLAR VA INDEKSLAR","",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.oltibob,"VI BOB.\tUZLUKSIZ KASRLAR VA ULARNING TADBIQLARI","",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.izohli,"IZOHLI LUG‘AT (GLOSARIY)","","https://github.com/asadbekakmedov2001/sonlar_nazariyasi/blob/main/izohli.pdf"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.ki,"FOYDALANISH UCHUN ILOVALAR","","https://github.com/asadbekakmedov2001/sonlar_nazariyasi/blob/main/ilovalar.pdf"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.izohli,"IZOHLI LUG‘AT (GLOSARIY)","","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/izohli.pdf"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.ki,"FOYDALANISH UCHUN ILOVALAR","","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/ilovalar.pdf"));
         modelRcyclers.add(new ModelRcycler(R.drawable.literature,"ADABIYOTLAR","Qo‘llanma  uch qismdan  iborat bo‘lib,  uning birinchi qismida  sonlar nazariyasida muhim bo‘lgan" +
-                "2. Isroilov M. I. Soleyev A. Sonlar nazariyasiga kirish. Toshkent, «Fan», 2003, 190 s.\n","https://github.com/asadbekakmedov2001/sonlar_nazariyasi/blob/main/adabiyot.pdf"));
+                "2. Isroilov M. I. Soleyev A. Sonlar nazariyasiga kirish. Toshkent, «Fan», 2003, 190 s.\n","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/adabiyot.pdf"));
 
 
     }
