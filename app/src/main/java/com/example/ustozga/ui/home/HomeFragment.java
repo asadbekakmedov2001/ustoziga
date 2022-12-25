@@ -52,7 +52,7 @@ public class HomeFragment extends Fragment implements UserAdapter.SelectedUser {
     }
 
     private void initial() {
-        modelRcyclers.add(new ModelRcycler(R.drawable.kirish,"Kirish","Qo‘llanma  uch qismdan  iborat bo‘lib,  uning birinchi qismida  sonlar nazariyasida muhim bo‘lgan","https://github.com/asadbekakmedov2001/sonlar_nazariyasi/blob/main/kirish.pdf"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.kirish,"Kirish","Qo‘llanma  uch qismdan  iborat bo‘lib,  uning birinchi qismida  sonlar nazariyasida muhim bo‘lgan","https://github.com/asadbekakmedov2001/ustoziga/blob/master/app/src/main/assets/kirish.pdf"));
         modelRcyclers.add(new ModelRcycler(R.drawable.birbob,"I BOB.\tBUTUN SONLAR HALQASIDA BO'LINISH NAZARIYASI ELEMENTLARI","",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.ikkibob,"II BOB.\tSONLI FUNKSIYALAR VA ULARNING XOSSALARI","",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.uchbob,"III BOB.\tTAQQOSLAMALAR NAZARIYASI ELEMENTLARI","",""));
