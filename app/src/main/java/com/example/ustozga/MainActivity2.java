@@ -73,23 +73,23 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
 
                 textViewSelectedChapterName.setText("I BOB.\tBUTUN SONLAR HALQASIDA BO'LINISH NAZARIYASI ELEMENTLARI");
 
-                modelRcyclers.add(new ModelRcycler("1.1-§. Qoldiqli bo‘lish haqidagi tеorеma","https://github.com/asadbekakmedov2001/sonlar_nazariyasi/blob/main/1.1.pdf"));
-                modelRcyclers.add(new ModelRcycler("1.2-§. Eng katta umumiy bo‘luvchi va eng kichik umumiy karrali","https://github.com/asadbekakmedov2001/sonlar_nazariyasi/blob/main/1.2.pdf"));
-                modelRcyclers.add(new ModelRcycler("1.3-§. Tub va murakkab sonlar","https://github.com/asadbekakmedov2001/sonlar_nazariyasi/blob/main/1.3.pdf"));
-                modelRcyclers.add(new ModelRcycler("I.BOB. Masalalarining javoblari","https://github.com/asadbekakmedov2001/sonlar_nazariyasi/blob/main/1j.pdf"));
-                modelRcyclers.add(new ModelRcycler("I.BOB. Masalalarining yechilish usullari","https://github.com/asadbekakmedov2001/sonlar_nazariyasi/blob/main/1mi.pdf"));
+                modelRcyclers.add(new ModelRcycler("1.1-§. Qoldiqli bo‘lish haqidagi tеorеma","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/1.1.pdf"));
+                modelRcyclers.add(new ModelRcycler("1.2-§. Eng katta umumiy bo‘luvchi va eng kichik umumiy karrali","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/1.2.pdf"));
+                modelRcyclers.add(new ModelRcycler("1.3-§. Tub va murakkab sonlar","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/1.3.pdf"));
+                modelRcyclers.add(new ModelRcycler("I.BOB. Masalalarining javoblari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/1j.pdf"));
+                modelRcyclers.add(new ModelRcycler("I.BOB. Masalalarining yechilish usullari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/1mi.pdf"));
 
             }break;
             case 2: {
 
                 textViewSelectedChapterName.setText("II BOB.\tSONLI FUNKSIYALAR VA ULARNING XOSSALARI");
 
-                modelRcyclers.add(new ModelRcycler("2.1-§. π(X) - funksiyasi.","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/2.1.pdf"));
-                modelRcyclers.add(new ModelRcycler("2.2-§. Butun qism va kasr qism funksiyalari","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/2.2.pdf"));
-                modelRcyclers.add(new ModelRcycler("2.3-§. Berilgan sonning bo‘luvchilari soni va bo‘luvchilari yig‘indisini ifodalovchi funksiyalar","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/2.2.pdf"));
-                modelRcyclers.add(new ModelRcycler("2.4-§. Eyler funksiyasi","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/2.2.pdf"));
-                modelRcyclers.add(new ModelRcycler("II.BOB. Masalalarining javoblari","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/2.2.pdf"));
-                modelRcyclers.add(new ModelRcycler("II.BOB. Masalalarining yechilish usullari","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/2.2.pdf"));
+                modelRcyclers.add(new ModelRcycler("2.1-§. π(X) - funksiyasi.","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/2.1.pdf"));
+                modelRcyclers.add(new ModelRcycler("2.2-§. Butun qism va kasr qism funksiyalari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/2.2.pdf"));
+                modelRcyclers.add(new ModelRcycler("2.3-§. Berilgan sonning bo‘luvchilari soni va bo‘luvchilari yig‘indisini ifodalovchi funksiyalar","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/2.3.pdf"));
+                modelRcyclers.add(new ModelRcycler("2.4-§. Eyler funksiyasi","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/2.4.pdf"));
+                modelRcyclers.add(new ModelRcycler("II.BOB. Masalalarining javoblari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/2j.pdf"));
+                modelRcyclers.add(new ModelRcycler("II.BOB. Masalalarining yechilish usullari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/2mi.pdf"));
 
             }break;
 
