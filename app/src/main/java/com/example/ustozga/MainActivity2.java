@@ -97,25 +97,25 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
 
                 textViewSelectedChapterName.setText("III BOB.\tTAQQOSLAMALAR NAZARIYASI VA ELEMENTLARI");
 
-                modelRcyclers.add(new ModelRcycler("3.1-§.  Taqqoslamalar  va ularning asosiy xossalari","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/3.1.pdf"));
-                modelRcyclers.add(new ModelRcycler("3.2-§.  Bеrilgan modul bo‘yicha chеgirmalar sinflari","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/3.2.pdf"));
-                modelRcyclers.add(new ModelRcycler("3.3-§.  Eylеr va Fеrma tеorеmalari","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/3.2.pdf"));
-                modelRcyclers.add(new ModelRcycler("III.BOB. Masalalarining javoblari","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/3.2.pdf"));
-                modelRcyclers.add(new ModelRcycler("III.BOB. Masalalarining yechilish usullari","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/3.2.pdf"));
+                modelRcyclers.add(new ModelRcycler("3.1-§.  Taqqoslamalar  va ularning asosiy xossalari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/3.1.pdf"));
+                modelRcyclers.add(new ModelRcycler("3.2-§.  Bеrilgan modul bo‘yicha chеgirmalar sinflari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/3.2.pdf"));
+                modelRcyclers.add(new ModelRcycler("3.3-§.  Eylеr va Fеrma tеorеmalari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/3.3.pdf"));
+                modelRcyclers.add(new ModelRcycler("III.BOB. Masalalarining javoblari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/3j.pdf"));
+                modelRcyclers.add(new ModelRcycler("III.BOB. Masalalarining yechilish usullari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/3mi.pdf"));
 
             }break;
             case 4: {
 
                 textViewSelectedChapterName.setText("IV BOB.\tBIR NOMA'LUMLI TAQQOSLAMALAR");
 
-                modelRcyclers.add(new ModelRcycler("4.1-§. Bir noma‘lumli taqqoslamalar (umumiy ma‘lumotlar)","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/4.1.pdf"));
-                modelRcyclers.add(new ModelRcycler("4.2-§. Bir noma‘lumli birinchi darajali taqqoslamalar","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/4.2.pdf"));
-                modelRcyclers.add(new ModelRcycler("4.3-§. Bir noma‘lumli birinchi darajali taqqoslamalar sistemasi","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/4.3.pdf"));
-                modelRcyclers.add(new ModelRcycler("4.4-§. Tub modul bo‘yicha yuqori darajali taqqoslamalar","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/4.3.pdf"));
-                modelRcyclers.add(new ModelRcycler("4.5-§. Murakkab modul bo‘yicha yuqori darajali taqqoslamalar","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/4.3.pdf"));
-                modelRcyclers.add(new ModelRcycler("4.6-§. Ikkinchi darajali taqqoslamalar va Lejandr simvoli","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/4.3.pdf"));
-                modelRcyclers.add(new ModelRcycler("IV.BOB. Masalalarining javoblari","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/4.3.pdf"));
-                modelRcyclers.add(new ModelRcycler("IV.BOB. Masalalarining yechilish usullari","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/4.3.pdf"));
+                modelRcyclers.add(new ModelRcycler("4.1-§. Bir noma‘lumli taqqoslamalar (umumiy ma‘lumotlar)","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/4.1.pdf"));
+                modelRcyclers.add(new ModelRcycler("4.2-§. Bir noma‘lumli birinchi darajali taqqoslamalar","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/4.2.pdf"));
+                modelRcyclers.add(new ModelRcycler("4.3-§. Bir noma‘lumli birinchi darajali taqqoslamalar sistemasi","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/4.3.pdf"));
+                modelRcyclers.add(new ModelRcycler("4.4-§. Tub modul bo‘yicha yuqori darajali taqqoslamalar","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/4.4.pdf"));
+                modelRcyclers.add(new ModelRcycler("4.5-§. Murakkab modul bo‘yicha yuqori darajali taqqoslamalar","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/4.5.pdf"));
+                modelRcyclers.add(new ModelRcycler("4.6-§. Ikkinchi darajali taqqoslamalar va Lejandr simvoli","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/4.6.pdf"));
+                modelRcyclers.add(new ModelRcycler("IV.BOB. Masalalarining javoblari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/4j.pdf"));
+                modelRcyclers.add(new ModelRcycler("IV.BOB. Masalalarining yechilish usullari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/4mi.pdf"));
 
 
             }break;
@@ -123,23 +123,23 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
 
                 textViewSelectedChapterName.setText("V BOB.\tBOSHLANG'ICH ILDIZLAR VA INDEKSLAR");
 
-                modelRcyclers.add(new ModelRcycler("5.1-§. Ko‘rsatkichga qarashli sonlar va boshlang‘ich ildizlar","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/5.1.pdf"));
-                modelRcyclers.add(new ModelRcycler("5.2-§. Indekslar va ularning tadbiqlar","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/5.2.pdf"));
-                modelRcyclers.add(new ModelRcycler("5.3-§. Taqqoslamalar nazariyasining ba‘zi tadbiqlari","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/5.3.pdf"));
-                modelRcyclers.add(new ModelRcycler("V.BOB. Masalalarining javoblari","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/5.3.pdf"));
-                modelRcyclers.add(new ModelRcycler("V.BOB. Masalalarining yechilish usullari","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/5.3.pdf"));
+                modelRcyclers.add(new ModelRcycler("5.1-§. Ko‘rsatkichga qarashli sonlar va boshlang‘ich ildizlar","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/5.1.pdf"));
+                modelRcyclers.add(new ModelRcycler("5.2-§. Indekslar va ularning tadbiqlar","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/5.2.pdf"));
+                modelRcyclers.add(new ModelRcycler("5.3-§. Taqqoslamalar nazariyasining ba‘zi tadbiqlari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/5.3.pdf"));
+                modelRcyclers.add(new ModelRcycler("V.BOB. Masalalarining javoblari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/5j.pdf"));
+                modelRcyclers.add(new ModelRcycler("V.BOB. Masalalarining yechilish usullari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/5mi.pdf"));
 
             }break;
             case 6: {
 
                 textViewSelectedChapterName.setText("VI BOB.\tUZLUKSIZ KASRLAR VA ULARNING TADBIQLARI");
 
-                modelRcyclers.add(new ModelRcycler("6.1-§. Chekli uzluksiz kasrlar","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/6.1.pdf"));
-                modelRcyclers.add(new ModelRcycler("6.2-§. Chеksiz uzliksiz kasrlarning yaqinlashuvchiligi","https://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/6.2.pdf"));
-                modelRcyclers.add(new ModelRcycler("6.3-§. Chеksiz uzliksiz kasrlar va kvadrat irratsionalliklar","fhttps://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/6.3.pdf"));
-                modelRcyclers.add(new ModelRcycler("6.4-§. Algebraik va transtsendent sonlar","fhttps://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/6.3.pdf"));
-                modelRcyclers.add(new ModelRcycler("VI.BOB. Masalalarining javoblari","fhttps://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/6.3.pdf"));
-                modelRcyclers.add(new ModelRcycler("VI.BOB. Masalalarining yechilish usullari","fhttps://github.com/shoxumarzoda/PERSPEKTIVA/raw/master/app/src/main/assets/6.3.pdf"));
+                modelRcyclers.add(new ModelRcycler("6.1-§. Chekli uzluksiz kasrlar","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/6.1.pdf"));
+                modelRcyclers.add(new ModelRcycler("6.2-§. Chеksiz uzliksiz kasrlarning yaqinlashuvchiligi","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/6.2.pdf"));
+                modelRcyclers.add(new ModelRcycler("6.3-§. Chеksiz uzliksiz kasrlar va kvadrat irratsionalliklar","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/6.3.pdf"));
+                modelRcyclers.add(new ModelRcycler("6.4-§. Algebraik va transtsendent sonlar","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/6.4.pdf"));
+                modelRcyclers.add(new ModelRcycler("VI.BOB. Masalalarining javoblari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/6j.pdf"));
+                modelRcyclers.add(new ModelRcycler("VI.BOB. Masalalarining yechilish usullari","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/6mi.pdf"));
 
             }break;
 
