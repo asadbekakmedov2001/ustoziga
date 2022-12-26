@@ -34,7 +34,7 @@
                     android:layout_width="150dp"
                     android:layout_height="150dp"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/rasm"
+                    android:src="@drawable/ismailallakov"
                     />
 
             </androidx.cardview.widget.CardView>
